@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T01:07:37.995199+08:00",
+  "generated_at": "2026-10-16T01:22:08.092673+08:00",
   "market_date": "2026-10-15",
-  "session": "01:07",
+  "session": "01:22",
   "snapshot_id": "2026-10-15-20261015T1801275479670800",
   "status": "ok",
   "market": {
@@ -48,12 +48,12 @@
       "independent_mode_count": 1,
       "independent_trader_count": 1,
       "resonance_tier": "single_trader_complete",
-      "resonance_label": "丫丫复盘 M03（单人模式）",
+      "resonance_label": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985 M03（单人模式）",
       "independent_traders": [
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸"
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸"
         }
       ],
       "rank_basis": [
@@ -83,8 +83,8 @@
       "data_complete": true,
       "mode_sources": [
         {
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "contribution": "M03完整独立模式证据"
         }
       ],
@@ -184,8 +184,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -194,8 +194,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -204,8 +204,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离12.0%",
@@ -218,8 +218,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -238,8 +238,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离12.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -248,8 +248,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -260,8 +260,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -419,12 +419,12 @@
       "independent_mode_count": 2,
       "independent_trader_count": 2,
       "resonance_tier": "multi_trader_complete",
-      "resonance_label": "融合模式库 M04 + 老樊 M09",
+      "resonance_label": "双牛兄弟、作手阿意、章盟主、交易老手98 M04 + 老樊 M09",
       "independent_traders": [
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破"
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破"
         },
         {
           "mode": "M09",
@@ -463,8 +463,8 @@
       "data_complete": true,
       "mode_sources": [
         {
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "contribution": "M04完整独立模式证据"
         },
         {
@@ -570,8 +570,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -580,8 +580,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -592,8 +592,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离64.0%",
@@ -606,8 +606,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "matched",
           "evidence": [
             "突破近20日高点",
@@ -629,8 +629,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离64.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -639,8 +639,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日5次涨停"
@@ -651,8 +651,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -924,8 +924,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -934,8 +934,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -946,8 +946,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离87.3%",
@@ -961,8 +961,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -981,8 +981,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离87.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -991,8 +991,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日6次涨停"
@@ -1003,8 +1003,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -1287,8 +1287,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -1297,8 +1297,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -1307,8 +1307,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离48.1%",
@@ -1321,8 +1321,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -1341,8 +1341,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离48.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -1351,8 +1351,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -1363,8 +1363,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -1623,8 +1623,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -1633,8 +1633,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -1645,8 +1645,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离35.4%",
@@ -1659,8 +1659,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "partial",
           "evidence": [
             "突破近20日高点",
@@ -1682,8 +1682,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离35.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -1692,8 +1692,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -1704,8 +1704,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -1962,8 +1962,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -1972,8 +1972,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -1984,8 +1984,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离68.8%",
@@ -1998,8 +1998,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "partial",
           "evidence": [
             "突破近20日高点",
@@ -2021,8 +2021,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离68.8%，未达到老樊个股乖离买点-30%起步标准"
@@ -2031,8 +2031,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日5次涨停"
@@ -2043,8 +2043,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -2301,8 +2301,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -2311,8 +2311,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -2323,8 +2323,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离39.1%",
@@ -2337,8 +2337,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "partial",
           "evidence": [
             "突破近20日高点",
@@ -2360,8 +2360,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离39.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -2370,8 +2370,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -2382,8 +2382,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -2637,8 +2637,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -2647,8 +2647,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -2659,8 +2659,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离22.3%",
@@ -2673,8 +2673,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -2693,8 +2693,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离22.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -2703,8 +2703,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -2715,8 +2715,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -2973,8 +2973,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -2983,8 +2983,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -2995,8 +2995,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离46.9%",
@@ -3009,8 +3009,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "partial",
           "evidence": [
             "突破近20日高点",
@@ -3032,8 +3032,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离46.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -3042,8 +3042,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日4次涨停"
@@ -3054,8 +3054,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -3295,8 +3295,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -3305,8 +3305,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -3315,8 +3315,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离30.7%",
@@ -3331,8 +3331,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -3351,8 +3351,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离30.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -3361,8 +3361,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -3371,8 +3371,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -3610,8 +3610,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -3620,8 +3620,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -3630,8 +3630,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离-0.4%",
@@ -3645,8 +3645,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -3665,8 +3665,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-0.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -3675,8 +3675,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -3685,8 +3685,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -3925,8 +3925,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -3935,8 +3935,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -3945,8 +3945,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-16.9%",
@@ -3961,8 +3961,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -3981,8 +3981,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-16.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -3991,8 +3991,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -4001,8 +4001,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -4241,8 +4241,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -4251,8 +4251,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -4261,8 +4261,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-8.4%",
@@ -4277,8 +4277,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -4297,8 +4297,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-8.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -4307,8 +4307,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -4317,8 +4317,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -4562,8 +4562,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -4572,8 +4572,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -4582,8 +4582,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离14.9%",
@@ -4598,8 +4598,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -4618,8 +4618,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离14.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -4628,8 +4628,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -4638,8 +4638,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -4883,8 +4883,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -4893,8 +4893,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -4903,8 +4903,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-13.5%",
@@ -4919,8 +4919,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -4939,8 +4939,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-13.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -4949,8 +4949,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -4959,8 +4959,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -5202,8 +5202,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -5212,8 +5212,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -5222,8 +5222,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-5.4%",
@@ -5238,8 +5238,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -5258,8 +5258,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-5.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -5268,8 +5268,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -5280,8 +5280,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -5522,8 +5522,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -5532,8 +5532,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -5542,8 +5542,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-6.0%",
@@ -5557,8 +5557,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -5577,8 +5577,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-6.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -5587,8 +5587,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -5599,8 +5599,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -5842,8 +5842,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -5852,8 +5852,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -5862,8 +5862,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-5.3%",
@@ -5878,8 +5878,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -5898,8 +5898,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-5.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -5908,8 +5908,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -5920,8 +5920,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -6163,8 +6163,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -6173,8 +6173,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -6183,8 +6183,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离10.3%",
@@ -6199,8 +6199,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -6219,8 +6219,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离10.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -6229,8 +6229,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -6241,8 +6241,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -6484,8 +6484,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -6494,8 +6494,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -6504,8 +6504,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-7.7%",
@@ -6520,8 +6520,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -6540,8 +6540,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-7.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -6550,8 +6550,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -6562,8 +6562,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -6807,8 +6807,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -6817,8 +6817,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "partial",
           "evidence": [
             "价格涨停"
@@ -6829,8 +6829,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离108.4%",
@@ -6844,8 +6844,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -6864,8 +6864,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离108.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -6874,8 +6874,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日5次涨停"
@@ -6886,8 +6886,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -7137,8 +7137,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -7147,8 +7147,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -7157,8 +7157,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离4.3%",
@@ -7173,8 +7173,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -7193,8 +7193,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离4.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -7203,8 +7203,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -7213,8 +7213,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -7465,8 +7465,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -7475,8 +7475,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -7485,8 +7485,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离5.8%",
@@ -7499,8 +7499,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -7519,8 +7519,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离5.8%，未达到老樊个股乖离买点-30%起步标准"
@@ -7529,8 +7529,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -7541,8 +7541,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -7797,8 +7797,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -7807,8 +7807,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -7817,8 +7817,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离35.1%",
@@ -7832,8 +7832,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -7852,8 +7852,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离35.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -7862,8 +7862,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -7874,8 +7874,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -8130,8 +8130,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -8140,8 +8140,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -8150,8 +8150,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离24.6%",
@@ -8165,8 +8165,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -8185,8 +8185,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离24.6%，未达到老樊个股乖离买点-30%起步标准"
@@ -8195,8 +8195,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -8207,8 +8207,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -8462,8 +8462,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -8472,8 +8472,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -8482,8 +8482,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离0.5%",
@@ -8497,8 +8497,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -8517,8 +8517,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离0.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -8527,8 +8527,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -8539,8 +8539,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -8794,8 +8794,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -8804,8 +8804,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -8814,8 +8814,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离8.7%",
@@ -8828,8 +8828,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -8848,8 +8848,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离8.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -8858,8 +8858,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -8870,8 +8870,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -9122,8 +9122,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -9132,8 +9132,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -9142,8 +9142,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离11.5%",
@@ -9156,8 +9156,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -9176,8 +9176,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离11.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -9186,8 +9186,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -9198,8 +9198,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -9450,8 +9450,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -9460,8 +9460,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -9470,8 +9470,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离9.4%",
@@ -9484,8 +9484,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -9504,8 +9504,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离9.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -9514,8 +9514,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -9526,8 +9526,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -9773,8 +9773,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -9783,8 +9783,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -9793,8 +9793,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-18.2%",
@@ -9809,8 +9809,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -9829,8 +9829,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-18.2%，未达到老樊个股乖离买点-30%起步标准"
@@ -9839,8 +9839,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -9849,8 +9849,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -10099,8 +10099,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -10109,8 +10109,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -10119,8 +10119,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离3.5%",
@@ -10135,8 +10135,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -10155,8 +10155,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离3.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -10165,8 +10165,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -10177,8 +10177,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -10423,8 +10423,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -10433,8 +10433,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -10443,8 +10443,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离4.4%",
@@ -10459,8 +10459,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -10479,8 +10479,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离4.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -10489,8 +10489,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -10499,8 +10499,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -10743,8 +10743,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -10753,8 +10753,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -10763,8 +10763,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-18.7%",
@@ -10779,8 +10779,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -10799,8 +10799,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-18.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -10809,8 +10809,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -10819,8 +10819,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -11066,8 +11066,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -11076,8 +11076,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -11086,8 +11086,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离14.5%",
@@ -11102,8 +11102,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -11122,8 +11122,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离14.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -11132,8 +11132,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -11144,8 +11144,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -11388,8 +11388,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -11398,8 +11398,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -11408,8 +11408,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-10.1%",
@@ -11424,8 +11424,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -11444,8 +11444,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-10.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -11454,8 +11454,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -11464,8 +11464,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -11708,8 +11708,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -11718,8 +11718,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -11728,8 +11728,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-17.4%",
@@ -11744,8 +11744,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -11764,8 +11764,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-17.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -11774,8 +11774,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -11784,8 +11784,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -12032,8 +12032,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -12042,8 +12042,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -12052,8 +12052,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离4.3%",
@@ -12068,8 +12068,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -12088,8 +12088,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离4.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -12098,8 +12098,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -12108,8 +12108,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -12354,8 +12354,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -12364,8 +12364,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -12374,8 +12374,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离7.0%",
@@ -12390,8 +12390,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -12410,8 +12410,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离7.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -12420,8 +12420,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -12430,8 +12430,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -12674,8 +12674,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -12684,8 +12684,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -12694,8 +12694,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-18.9%",
@@ -12710,8 +12710,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -12730,8 +12730,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-18.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -12740,8 +12740,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -12750,8 +12750,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -12993,8 +12993,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -13003,8 +13003,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -13013,8 +13013,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离-2.7%",
@@ -13028,8 +13028,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -13048,8 +13048,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-2.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -13058,8 +13058,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -13068,8 +13068,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -13313,8 +13313,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -13323,8 +13323,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -13333,8 +13333,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-13.6%",
@@ -13349,8 +13349,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -13369,8 +13369,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-13.6%，未达到老樊个股乖离买点-30%起步标准"
@@ -13379,8 +13379,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -13389,8 +13389,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -13632,8 +13632,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -13642,8 +13642,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -13652,8 +13652,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离-1.3%",
@@ -13667,8 +13667,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -13687,8 +13687,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-1.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -13697,8 +13697,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -13707,8 +13707,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -13951,8 +13951,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -13961,8 +13961,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -13971,8 +13971,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-12.7%",
@@ -13987,8 +13987,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -14007,8 +14007,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-12.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -14017,8 +14017,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -14027,8 +14027,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -14272,8 +14272,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -14282,8 +14282,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -14292,8 +14292,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-4.0%",
@@ -14308,8 +14308,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -14328,8 +14328,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-4.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -14338,8 +14338,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -14348,8 +14348,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -14598,8 +14598,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -14608,8 +14608,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -14618,8 +14618,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离13.1%",
@@ -14632,8 +14632,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -14652,8 +14652,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离13.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -14662,8 +14662,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -14674,8 +14674,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -14925,8 +14925,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -14935,8 +14935,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -14945,8 +14945,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离9.6%",
@@ -14960,8 +14960,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -14980,8 +14980,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离9.6%，未达到老樊个股乖离买点-30%起步标准"
@@ -14990,8 +14990,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -15002,8 +15002,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -15249,8 +15249,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -15259,8 +15259,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -15269,8 +15269,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离10.5%",
@@ -15285,8 +15285,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -15305,8 +15305,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离10.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -15315,8 +15315,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -15325,8 +15325,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -15569,8 +15569,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -15579,8 +15579,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -15589,8 +15589,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离0.0%",
@@ -15603,8 +15603,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -15623,8 +15623,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离0.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -15633,8 +15633,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -15643,8 +15643,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -15887,8 +15887,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -15897,8 +15897,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -15907,8 +15907,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-12.3%",
@@ -15923,8 +15923,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -15943,8 +15943,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-12.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -15953,8 +15953,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -15963,8 +15963,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -16208,8 +16208,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -16218,8 +16218,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -16228,8 +16228,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-38.0%",
@@ -16244,8 +16244,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -16264,8 +16264,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-38.0%，未达到老樊个股乖离买点-30%起步标准"
@@ -16274,8 +16274,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -16284,8 +16284,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -16529,8 +16529,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -16539,8 +16539,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -16549,8 +16549,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-6.1%",
@@ -16565,8 +16565,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -16585,8 +16585,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-6.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -16595,8 +16595,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -16605,8 +16605,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -16849,8 +16849,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -16859,8 +16859,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -16869,8 +16869,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离-2.9%",
@@ -16884,8 +16884,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -16904,8 +16904,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-2.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -16914,8 +16914,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -16924,8 +16924,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -17167,8 +17167,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -17177,8 +17177,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -17187,8 +17187,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：55/60/65日线组；收盘相对MA60乖离-1.4%",
@@ -17202,8 +17202,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -17222,8 +17222,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-1.4%，未达到老樊个股乖离买点-30%起步标准"
@@ -17232,8 +17232,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -17242,8 +17242,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -17490,8 +17490,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -17500,8 +17500,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -17510,8 +17510,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-4.3%",
@@ -17526,8 +17526,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -17546,8 +17546,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-4.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -17556,8 +17556,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -17568,8 +17568,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -17812,8 +17812,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -17822,8 +17822,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -17832,8 +17832,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-17.7%",
@@ -17848,8 +17848,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -17868,8 +17868,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-17.7%，未达到老樊个股乖离买点-30%起步标准"
@@ -17878,8 +17878,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -17888,8 +17888,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -18133,8 +18133,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -18143,8 +18143,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -18153,8 +18153,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-22.5%",
@@ -18169,8 +18169,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -18189,8 +18189,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-22.5%，未达到老樊个股乖离买点-30%起步标准"
@@ -18199,8 +18199,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -18209,8 +18209,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -18458,8 +18458,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -18468,8 +18468,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -18478,8 +18478,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离12.9%",
@@ -18493,8 +18493,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -18513,8 +18513,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离12.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -18523,8 +18523,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -18535,8 +18535,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -18779,8 +18779,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -18789,8 +18789,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -18799,8 +18799,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离33.9%",
@@ -18814,8 +18814,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -18834,8 +18834,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离33.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -18844,8 +18844,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日2次涨停"
@@ -18856,8 +18856,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -19101,8 +19101,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -19111,8 +19111,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -19121,8 +19121,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离130.9%",
@@ -19136,8 +19136,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -19156,8 +19156,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离130.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -19166,8 +19166,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日8次涨停"
@@ -19178,8 +19178,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -19451,8 +19451,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -19461,8 +19461,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -19471,8 +19471,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "partial",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离6.1%",
@@ -19486,8 +19486,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -19506,8 +19506,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离6.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -19516,8 +19516,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -19526,8 +19526,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -19767,8 +19767,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -19777,8 +19777,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -19787,8 +19787,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "partial",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离10.3%",
@@ -19802,8 +19802,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -19822,8 +19822,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离10.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -19832,8 +19832,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -19842,8 +19842,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -20088,8 +20088,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -20098,8 +20098,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -20108,8 +20108,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "partial",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离27.3%",
@@ -20123,8 +20123,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -20143,8 +20143,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离27.3%，未达到老樊个股乖离买点-30%起步标准"
@@ -20153,8 +20153,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -20165,8 +20165,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -20408,8 +20408,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -20418,8 +20418,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -20428,8 +20428,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：5日线；收盘相对MA60乖离43.1%",
@@ -20442,8 +20442,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -20462,8 +20462,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离43.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -20472,8 +20472,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "partial",
           "evidence": [
             "近10日3次涨停"
@@ -20484,8 +20484,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -20725,8 +20725,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -20735,8 +20735,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -20745,8 +20745,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离-19.1%",
@@ -20761,8 +20761,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -20781,8 +20781,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离-19.1%，未达到老樊个股乖离买点-30%起步标准"
@@ -20791,8 +20791,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -20801,8 +20801,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -21043,8 +21043,8 @@
       "mode_source_audit": [
         {
           "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
+          "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+          "technique": "龙头首分/竞价弱转强/分歧转一致",
           "status": "not_matched",
           "evidence": [
             "未形成完整分歧转强"
@@ -21053,8 +21053,8 @@
         },
         {
           "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
+          "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+          "technique": "回封板/反包板/打板接力",
           "status": "not_matched",
           "evidence": [
             "未形成打板/回封结构"
@@ -21063,8 +21063,8 @@
         },
         {
           "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
+          "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+          "technique": "均线回踩/恐慌低吸/趋势低吸",
           "status": "not_matched",
           "evidence": [
             "回踩目标：无；收盘相对MA60乖离5.9%",
@@ -21079,8 +21079,8 @@
         },
         {
           "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
+          "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+          "technique": "平台/年线/反包突破",
           "status": "not_matched",
           "evidence": [
             "未形成放量突破近20日高点"
@@ -21099,8 +21099,8 @@
         },
         {
           "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
+          "trader": "落升、老樊、徐翔、佛山龙傲天",
+          "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
           "status": "not_matched",
           "evidence": [
             "60日线乖离5.9%，未达到老樊个股乖离买点-30%起步标准"
@@ -21109,8 +21109,8 @@
         },
         {
           "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
+          "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+          "technique": "龙头连板/补涨/首分/反包",
           "status": "not_matched",
           "evidence": [
             "不满足龙头连板高度"
@@ -21119,8 +21119,8 @@
         },
         {
           "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
+          "trader": "丁一熊、Asking",
+          "technique": "长线估值/人气龙头与仓位纪律",
           "status": "data_missing",
           "evidence": [],
           "missing_conditions": [
@@ -21223,32 +21223,32 @@
   "mode_coverage": [
     {
       "mode": "M01",
-      "trader": "A短线女王",
-      "technique": "弱转强/分歧转一致",
+      "trader": "ViTa、A短线女王、作手阿意、lqy1985、我就是海",
+      "technique": "龙头首分/竞价弱转强/分歧转一致",
       "matched_count": 0,
       "partial_count": 9,
       "data_missing_count": 0
     },
     {
       "mode": "M02",
-      "trader": "令狐冲",
-      "technique": "打板/回封接力",
+      "trader": "ViTa、A短线女王、我就是海、令狐冲、北京炒家、十万起家、主升龙头真经、老猪炒股",
+      "technique": "回封板/反包板/打板接力",
       "matched_count": 0,
       "partial_count": 34,
       "data_missing_count": 0
     },
     {
       "mode": "M03",
-      "trader": "丫丫复盘",
-      "technique": "趋势回踩低吸",
+      "trader": "丫丫小师妹、双牛兄弟、多位高手、佛山龙傲天、东北玄、A短线女王、归因、lqy1985",
+      "technique": "均线回踩/恐慌低吸/趋势低吸",
       "matched_count": 1,
       "partial_count": 47,
       "data_missing_count": 0
     },
     {
       "mode": "M04",
-      "trader": "融合模式库",
-      "technique": "平台放量突破",
+      "trader": "双牛兄弟、作手阿意、章盟主、交易老手98",
+      "technique": "平台/年线/反包突破",
       "matched_count": 1,
       "partial_count": 27,
       "data_missing_count": 0
@@ -21263,24 +21263,24 @@
     },
     {
       "mode": "M06",
-      "trader": "融合模式库",
-      "technique": "极端乖离恐慌修复",
+      "trader": "落升、老樊、徐翔、佛山龙傲天",
+      "technique": "指数乖离/个股乖离/黑天鹅/周期末端低吸",
       "matched_count": 0,
       "partial_count": 9,
       "data_missing_count": 0
     },
     {
       "mode": "M07",
-      "trader": "令狐冲",
-      "technique": "龙头连板/首次分歧",
+      "trader": "孤独牛背、主升龙头真经、龙头女王、不死鸟韦一",
+      "technique": "龙头连板/补涨/首分/反包",
       "matched_count": 0,
       "partial_count": 89,
       "data_missing_count": 0
     },
     {
       "mode": "M08",
-      "trader": "融合模式库",
-      "technique": "长线价值",
+      "trader": "丁一熊、Asking",
+      "technique": "长线估值/人气龙头与仓位纪律",
       "matched_count": 0,
       "partial_count": 0,
       "data_missing_count": 642
@@ -21705,9 +21705,7 @@
     }
   ],
   "changes": {
-    "added": [
-      "603232"
-    ],
+    "added": [],
     "removed": [],
     "rank_changes": []
   },
