@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T00:41:47.899532+08:00",
+  "generated_at": "2026-10-16T01:07:37.995199+08:00",
   "market_date": "2026-10-15",
-  "session": "00:41",
+  "session": "01:07",
   "snapshot_id": "2026-10-15-20261015T1801275479670800",
   "status": "ok",
   "market": {
@@ -23,18 +23,17 @@
     "B股"
   ],
   "max_total_position": 0,
-  "candidates": [],
-  "watchlist": [
+  "candidates": [
     {
       "code": "603232",
       "name": "格尔软件",
       "score": 50,
       "grade": "B",
       "opportunity_id": "20261015-603232-M03",
-      "opportunity_status": "watch",
+      "opportunity_status": "pending_next_day",
       "signal_rank": 2,
-      "execution_rank": 0,
-      "risk_reward_rank": 0,
+      "execution_rank": 1,
+      "risk_reward_rank": 1,
       "price": 17.25,
       "change_pct": -3.1986531986532007,
       "amount": 336209885.0,
@@ -389,7 +388,10 @@
           "预估收益风险比不低于2:1"
         ]
       }
-    },
+    }
+  ],
+  "formal_candidates": [],
+  "watchlist": [
     {
       "code": "002343",
       "name": "慈文传媒",
@@ -6646,6 +6648,330 @@
           "breakout_confirmation": 18.19,
           "previous_close": 16.88,
           "ma5": 19.02
+        },
+        "pre_open_checks": [
+          "指数与情绪环境",
+          "板块竞价联动",
+          "同题材/同高度PK",
+          "异动监管距离",
+          "预估收益风险比不低于2:1"
+        ]
+      }
+    },
+    {
+      "code": "605058",
+      "name": "澳弘电子",
+      "score": 20,
+      "grade": "B",
+      "opportunity_id": "20261015-605058-WATCH",
+      "opportunity_status": "watch",
+      "signal_rank": 594,
+      "execution_rank": 0,
+      "risk_reward_rank": 0,
+      "price": 70.49,
+      "change_pct": 10.00312109862671,
+      "amount": 1488855966.0,
+      "turnover_pct": null,
+      "mainline": "待核验",
+      "position": "待核验",
+      "main_mode": "未形成完整模式",
+      "resonance_modes": [],
+      "independent_modes": [],
+      "independent_mode_count": 0,
+      "independent_trader_count": 0,
+      "resonance_tier": "single_trader_complete",
+      "resonance_label": "无完整人物模式（单人模式）",
+      "independent_traders": [],
+      "rank_basis": [
+        "独立交易者0位",
+        "完整独立模式0个：无",
+        "板块：待核验；地位：待核验",
+        "模式评分：20分；成交额：14.89亿元",
+        "执行降级：连续3个交易日个股累计涨跌幅已进入异动核验区；须补齐对应指数逐日偏离值；板块与个股地位待核验",
+        "审计保护：不得作为正式买入信号"
+      ],
+      "matched_modes": [],
+      "selection_logic": "排名理由：模式分20分；成交额14.89亿元；但退潮环境禁止开仓。完整独立模式不重复计分；其他命中模式保留为共振/辅助证据。",
+      "matched_conditions": [
+        "仅部分模式条件"
+      ],
+      "missing_conditions": [
+        "环境、换手、板块联动或地位尚未齐全",
+        "龙头地位或板块梯队未确认",
+        "退潮环境禁止开仓",
+        "连续3个交易日个股累计涨跌幅已进入异动核验区；须补齐对应指数逐日偏离值",
+        "板块与个股地位待核验",
+        "人物子模式尚未按原文逐条完成程序化；当前仅为粗粒度召回观察"
+      ],
+      "hard_exclusions": [],
+      "trigger_confirmed": false,
+      "data_complete": true,
+      "mode_sources": [
+        {
+          "trader": "本系统",
+          "technique": "全模式召回审计",
+          "contribution": "仅列观察，未形成完整模式"
+        }
+      ],
+      "mode_audits": {
+        "M01": {
+          "mode": "M01",
+          "status": "not_matched",
+          "evidence": [
+            "未形成完整分歧转强"
+          ],
+          "missing_conditions": []
+        },
+        "M02": {
+          "mode": "M02",
+          "status": "partial",
+          "evidence": [
+            "价格涨停"
+          ],
+          "missing_conditions": [
+            "环境、换手、板块联动或地位尚未齐全"
+          ]
+        },
+        "M03": {
+          "mode": "M03",
+          "status": "not_matched",
+          "evidence": [
+            "回踩目标：无；收盘相对MA60乖离108.4%",
+            "量能比（当日量/前5日均量）1.12；缩量阈值≤0.85，修复阈值≥1.30",
+            "MA20方向：向上/走平；确认：缩量承接=False、放量修复=False、止跌K=False"
+          ],
+          "missing_conditions": [
+            "价格未真实触及丫丫5/10日线或中期55/60/65日线组",
+            "缺少缩量承接、放量修复或止跌K确认"
+          ]
+        },
+        "M04": {
+          "mode": "M04",
+          "status": "not_matched",
+          "evidence": [
+            "未形成放量突破近20日高点"
+          ],
+          "missing_conditions": []
+        },
+        "M05": {
+          "mode": "M05",
+          "status": "matched",
+          "evidence": [
+            "市场阶段：退潮"
+          ],
+          "missing_conditions": []
+        },
+        "M06": {
+          "mode": "M06",
+          "status": "not_matched",
+          "evidence": [
+            "60日线乖离108.4%，未达到老樊个股乖离买点-30%起步标准"
+          ],
+          "missing_conditions": []
+        },
+        "M07": {
+          "mode": "M07",
+          "status": "partial",
+          "evidence": [
+            "近10日5次涨停"
+          ],
+          "missing_conditions": [
+            "龙头地位或板块梯队未确认"
+          ]
+        },
+        "M08": {
+          "mode": "M08",
+          "status": "data_missing",
+          "evidence": [],
+          "missing_conditions": [
+            "盈利质量、增长、估值与治理数据"
+          ]
+        },
+        "M09": {
+          "mode": "M09",
+          "status": "not_matched",
+          "evidence": [
+            "未确认老樊趋势买点"
+          ],
+          "missing_conditions": []
+        },
+        "M10": {
+          "mode": "M10",
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
+        }
+      },
+      "mode_source_audit": [
+        {
+          "mode": "M01",
+          "trader": "A短线女王",
+          "technique": "弱转强/分歧转一致",
+          "status": "not_matched",
+          "evidence": [
+            "未形成完整分歧转强"
+          ],
+          "missing_conditions": []
+        },
+        {
+          "mode": "M02",
+          "trader": "令狐冲",
+          "technique": "打板/回封接力",
+          "status": "partial",
+          "evidence": [
+            "价格涨停"
+          ],
+          "missing_conditions": [
+            "环境、换手、板块联动或地位尚未齐全"
+          ]
+        },
+        {
+          "mode": "M03",
+          "trader": "丫丫复盘",
+          "technique": "趋势回踩低吸",
+          "status": "not_matched",
+          "evidence": [
+            "回踩目标：无；收盘相对MA60乖离108.4%",
+            "量能比（当日量/前5日均量）1.12；缩量阈值≤0.85，修复阈值≥1.30",
+            "MA20方向：向上/走平；确认：缩量承接=False、放量修复=False、止跌K=False"
+          ],
+          "missing_conditions": [
+            "价格未真实触及丫丫5/10日线或中期55/60/65日线组",
+            "缺少缩量承接、放量修复或止跌K确认"
+          ]
+        },
+        {
+          "mode": "M04",
+          "trader": "融合模式库",
+          "technique": "平台放量突破",
+          "status": "not_matched",
+          "evidence": [
+            "未形成放量突破近20日高点"
+          ],
+          "missing_conditions": []
+        },
+        {
+          "mode": "M05",
+          "trader": "本系统环境闸门",
+          "technique": "市场情绪周期/环境许可",
+          "status": "matched",
+          "evidence": [
+            "市场阶段：退潮"
+          ],
+          "missing_conditions": []
+        },
+        {
+          "mode": "M06",
+          "trader": "融合模式库",
+          "technique": "极端乖离恐慌修复",
+          "status": "not_matched",
+          "evidence": [
+            "60日线乖离108.4%，未达到老樊个股乖离买点-30%起步标准"
+          ],
+          "missing_conditions": []
+        },
+        {
+          "mode": "M07",
+          "trader": "令狐冲",
+          "technique": "龙头连板/首次分歧",
+          "status": "partial",
+          "evidence": [
+            "近10日5次涨停"
+          ],
+          "missing_conditions": [
+            "龙头地位或板块梯队未确认"
+          ]
+        },
+        {
+          "mode": "M08",
+          "trader": "融合模式库",
+          "technique": "长线价值",
+          "status": "data_missing",
+          "evidence": [],
+          "missing_conditions": [
+            "盈利质量、增长、估值与治理数据"
+          ]
+        },
+        {
+          "mode": "M09",
+          "trader": "老樊",
+          "technique": "移动平均带、探路尖兵与上影反攻；N字倍量双涨停另属用户PPT补充",
+          "status": "not_matched",
+          "evidence": [
+            "未确认老樊趋势买点"
+          ],
+          "missing_conditions": []
+        },
+        {
+          "mode": "M10",
+          "trader": "本系统修订规则",
+          "technique": "保守型尾盘确认",
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
+        }
+      ],
+      "expectation": {
+        "identity": "昨日强势股",
+        "rating": "严重不及预期",
+        "expected": "强势股应平开以上并快速收复关键位",
+        "reason": "预期评级：严重不及预期；强势身份却低开；尚未收复关键位；运行在分时均价下方"
+      },
+      "pk_decision": {
+        "applicable": false,
+        "status": "not_grouped",
+        "rank": null,
+        "reason": null
+      },
+      "regulatory_risk": {
+        "status": "must_verify",
+        "stock_three_day_sum_pct": 29.63,
+        "exchange_threshold_pct": 20.0,
+        "benchmark_deviation_verified": false,
+        "blocks_execution": true,
+        "reason": "连续3个交易日个股累计涨跌幅已进入异动核验区；须补齐对应指数逐日偏离值"
+      },
+      "evidence": "",
+      "trigger": "先完成至少一个完整模式，再等待实时盘口确认；同时满足无硬排除、收益风险比≥2:1",
+      "invalidation": "跌破关键位或前收；板块联动消失；同高度PK落后；出现跌停/准跌停负反馈",
+      "risk_reward": 0,
+      "position_limit": "触发前0%；触发后单票≤10%，次日总仓位≤30%",
+      "risk": "环境、换手、板块联动或地位尚未齐全；龙头地位或板块梯队未确认；退潮环境禁止开仓；连续3个交易日个股累计涨跌幅已进入异动核验区；须补齐对应指数逐日偏离值；板块与个股地位待核验；人物子模式尚未按原文逐条完成程序化；当前仅为粗粒度召回观察",
+      "next_day_plan": {
+        "sector": {
+          "name": "待核验板块",
+          "role": "地位待核验",
+          "anchors": [],
+          "anchor_rule": "板块锚点尚未补齐，不得执行。",
+          "strong": "待核验板块锚点满足联动标准，当前个股地位不被同题材替代。板块锚点尚未补齐，不得执行。",
+          "base": "待核验板块允许正常分歧，但锚点不得触发联动失效标准。板块锚点尚未补齐，不得执行。",
+          "weak": "待核验板块触发联动失效标准，立即关闭该板块交易计划。板块锚点尚未补齐，不得执行。"
+        },
+        "stock_scenarios": {
+          "strong": {
+            "condition": "价格站上70.49元；进一步放量突破66.43元；板块锚点尚未补齐，不得执行。",
+            "action": "首次触及不追；连续两轮采样站稳70.49元且成交放大，突破66.43元后才进入可执行。"
+          },
+          "base": {
+            "condition": "价格在61.50—70.49元区间承接，回踩61.50元不破并重新站回70.49元",
+            "action": "61.50元上方观察承接；重新站回70.49元且锚点满足联动标准后再执行。"
+          },
+          "weak": {
+            "condition": "连续两轮采样低于61.50元且不能收回，或任一轮跌破62.01元；同时适用：板块锚点尚未补齐，不得执行。",
+            "action": "跌破62.01元立即取消；连续两轮低于61.50元同样取消，不再使用其他模式加分挽救。"
+          }
+        },
+        "key_levels": {
+          "defense": 61.5,
+          "hard_stop": 62.01,
+          "strength_confirmation": 70.49,
+          "breakout_confirmation": 66.43,
+          "previous_close": 64.08,
+          "ma5": 58.26
         },
         "pre_open_checks": [
           "指数与情绪环境",
@@ -21379,10 +21705,10 @@
     }
   ],
   "changes": {
-    "added": [],
-    "removed": [
+    "added": [
       "603232"
     ],
+    "removed": [],
     "rank_changes": []
   },
   "risk_changes": [
