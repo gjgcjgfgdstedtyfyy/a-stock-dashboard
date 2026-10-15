@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T00:10:08.252095+08:00",
+  "generated_at": "2026-10-16T00:13:02.319630+08:00",
   "market_date": "2026-10-15",
-  "session": "00:10",
+  "session": "00:13",
   "snapshot_id": "2026-10-15-20261015T1801275479670800",
   "status": "ok",
   "market": {
@@ -181,11 +181,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -289,11 +289,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -531,11 +531,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -640,11 +640,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -881,11 +881,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -989,11 +989,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -1203,11 +1203,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -1312,11 +1312,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -1554,11 +1554,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -1662,11 +1662,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -1909,11 +1909,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -2019,11 +2019,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -2281,11 +2281,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -2394,11 +2394,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -2632,11 +2632,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -2743,11 +2743,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -2987,11 +2987,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -3095,11 +3095,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -3316,11 +3316,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -3429,11 +3429,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -3650,11 +3650,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -3763,11 +3763,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -3984,11 +3984,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -4097,11 +4097,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -4315,11 +4315,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -4425,11 +4425,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -4646,11 +4646,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -4759,11 +4759,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -4975,11 +4975,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -5083,11 +5083,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -5307,11 +5307,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -5419,11 +5419,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -5642,11 +5642,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -5752,11 +5752,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -5976,11 +5976,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -6085,11 +6085,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -6291,11 +6291,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -6399,11 +6399,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -6604,11 +6604,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -6711,11 +6711,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -6917,11 +6917,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -7025,11 +7025,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -7231,11 +7231,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -7339,11 +7339,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -7545,11 +7545,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -7653,11 +7653,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -7862,11 +7862,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -7972,11 +7972,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -8180,11 +8180,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -8289,11 +8289,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -8498,11 +8498,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -8608,11 +8608,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -8825,11 +8825,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -8935,11 +8935,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -9151,11 +9151,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -9261,11 +9261,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -9485,11 +9485,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -9594,11 +9594,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -9811,11 +9811,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -9922,11 +9922,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -10145,11 +10145,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -10254,11 +10254,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -10470,11 +10470,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -10580,11 +10580,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -10796,11 +10796,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -10906,11 +10906,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -11122,11 +11122,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -11232,11 +11232,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -11443,11 +11443,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -11551,11 +11551,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -11774,11 +11774,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -11884,11 +11884,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -12094,11 +12094,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -12202,11 +12202,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -12412,11 +12412,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -12520,11 +12520,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -12733,11 +12733,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -12843,11 +12843,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -13053,11 +13053,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -13161,11 +13161,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -13371,11 +13371,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -13479,11 +13479,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -13693,11 +13693,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -13803,11 +13803,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -14013,11 +14013,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -14121,11 +14121,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -14330,11 +14330,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -14437,11 +14437,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -14650,11 +14650,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -14760,11 +14760,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -14971,11 +14971,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -15079,11 +15079,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -15288,11 +15288,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -15395,11 +15395,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -15605,11 +15605,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -15713,11 +15713,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -15924,11 +15924,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -16032,11 +16032,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -16252,11 +16252,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -16360,11 +16360,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -16572,11 +16572,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -16681,11 +16681,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -16894,11 +16894,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -17004,11 +17004,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -17212,11 +17212,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -17318,11 +17318,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -17528,11 +17528,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -17636,11 +17636,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -17847,11 +17847,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -17955,11 +17955,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -18166,11 +18166,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -18274,11 +18274,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -18484,11 +18484,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -18591,11 +18591,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -18800,11 +18800,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -18907,11 +18907,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -19121,11 +19121,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -19231,11 +19231,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -19441,11 +19441,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -19549,11 +19549,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -19763,11 +19763,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -19873,11 +19873,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -20087,11 +20087,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -20197,11 +20197,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -20412,11 +20412,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -20521,11 +20521,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -20766,11 +20766,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -20875,11 +20875,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -21083,11 +21083,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -21192,11 +21192,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -21399,11 +21399,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -21506,11 +21506,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -21713,11 +21713,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -21820,11 +21820,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -22030,11 +22030,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -22140,11 +22140,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -22347,11 +22347,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -22455,11 +22455,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -22665,11 +22665,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -22775,11 +22775,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -22991,11 +22991,11 @@
         },
         "M10": {
           "mode": "M10",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       },
       "mode_source_audit": [
@@ -23099,11 +23099,11 @@
           "mode": "M10",
           "trader": "本系统修订规则",
           "technique": "保守型尾盘确认",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "14:30后均价、主动成交和收盘区间数据"
-          ]
+          "status": "not_matched",
+          "evidence": [
+            "尾盘数据已核验"
+          ],
+          "missing_conditions": []
         }
       ],
       "expectation": {
@@ -23255,7 +23255,7 @@
       "technique": "保守型尾盘确认",
       "matched_count": 0,
       "partial_count": 0,
-      "data_missing_count": 823
+      "data_missing_count": 0
     }
   ],
   "mode_pools": {
@@ -23668,24 +23668,9 @@
     }
   ],
   "changes": {
-    "added": [
-      "600831"
-    ],
+    "added": [],
     "removed": [],
-    "rank_changes": [
-      {
-        "code": "603232",
-        "from": 5,
-        "to": 1,
-        "delta": 4
-      },
-      {
-        "code": "002212",
-        "from": 1,
-        "to": 5,
-        "delta": -4
-      }
-    ]
+    "rank_changes": []
   },
   "risk_changes": [
     {
