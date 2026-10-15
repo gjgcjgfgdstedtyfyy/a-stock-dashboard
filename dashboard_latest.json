@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T00:28:32.292883+08:00",
+  "generated_at": "2026-10-16T00:39:21.538832+08:00",
   "market_date": "2026-10-15",
-  "session": "00:28",
+  "session": "00:39",
   "snapshot_id": "2026-10-15-20261015T1801275479670800",
   "status": "ok",
   "market": {
@@ -25,367 +25,15 @@
   "max_total_position": 0,
   "candidates": [
     {
-      "code": "002212",
-      "name": "天融信",
-      "score": 50,
-      "grade": "B",
-      "opportunity_id": "20261015-002212-M09",
-      "opportunity_status": "conditional",
-      "signal_rank": 2,
-      "execution_rank": 1,
-      "risk_reward_rank": 1,
-      "price": 7.07,
-      "change_pct": -4.200542005420049,
-      "amount": 621613411.08,
-      "turnover_pct": null,
-      "mainline": "网络安全",
-      "position": "探路先锋",
-      "main_mode": "M09",
-      "resonance_modes": [],
-      "independent_modes": [
-        "M09"
-      ],
-      "independent_mode_count": 1,
-      "independent_trader_count": 1,
-      "resonance_tier": "single_trader_complete",
-      "resonance_label": "老樊 M09（单人模式）",
-      "independent_traders": [
-        {
-          "mode": "M09",
-          "trader": "老樊",
-          "technique": "移动平均带、探路尖兵与上影反攻；N字倍量双涨停另属用户PPT补充"
-        }
-      ],
-      "rank_basis": [
-        "独立交易者1位",
-        "完整独立模式1个：M09",
-        "板块：网络安全；地位：探路先锋",
-        "模式评分：50分；成交额：6.22亿元",
-        "审计保护：不得作为正式买入信号"
-      ],
-      "matched_modes": [
-        "M09"
-      ],
-      "selection_logic": "排名理由：完整独立模式1个：M09；板块网络安全，地位探路先锋；模式分50分；成交额6.22亿元；但退潮环境禁止开仓。完整独立模式不重复计分；其他命中模式保留为共振/辅助证据。",
-      "matched_conditions": [
-        "催化明确且承担探路/先锋角色",
-        "中期趋势修复并放量"
-      ],
-      "missing_conditions": [
-        "退潮环境禁止开仓",
-        "人物子模式尚未按原文逐条完成程序化；当前仅为粗粒度召回观察"
-      ],
-      "hard_exclusions": [],
-      "trigger_confirmed": false,
-      "data_complete": true,
-      "mode_sources": [
-        {
-          "trader": "老樊",
-          "technique": "移动平均带、探路尖兵与上影反攻；N字倍量双涨停另属用户PPT补充",
-          "contribution": "M09完整独立模式证据"
-        }
-      ],
-      "mode_audits": {
-        "M01": {
-          "mode": "M01",
-          "status": "not_matched",
-          "evidence": [
-            "未形成完整分歧转强"
-          ],
-          "missing_conditions": []
-        },
-        "M02": {
-          "mode": "M02",
-          "status": "not_matched",
-          "evidence": [
-            "未形成打板/回封结构"
-          ],
-          "missing_conditions": []
-        },
-        "M03": {
-          "mode": "M03",
-          "status": "not_matched",
-          "evidence": [
-            "回踩目标：无；收盘相对MA60乖离6.6%",
-            "量能比（当日量/前5日均量）4.29；缩量阈值≤0.85，修复阈值≥1.30",
-            "MA20方向：向上/走平；确认：缩量承接=False、放量修复=False、止跌K=False"
-          ],
-          "missing_conditions": [
-            "价格未真实触及丫丫5/10日线或中期55/60/65日线组",
-            "缺少缩量承接、放量修复或止跌K确认"
-          ]
-        },
-        "M04": {
-          "mode": "M04",
-          "status": "not_matched",
-          "evidence": [
-            "未形成放量突破近20日高点"
-          ],
-          "missing_conditions": []
-        },
-        "M05": {
-          "mode": "M05",
-          "status": "matched",
-          "evidence": [
-            "市场阶段：退潮"
-          ],
-          "missing_conditions": []
-        },
-        "M06": {
-          "mode": "M06",
-          "status": "not_matched",
-          "evidence": [
-            "60日线乖离6.6%，未达到老樊个股乖离买点-30%起步标准"
-          ],
-          "missing_conditions": []
-        },
-        "M07": {
-          "mode": "M07",
-          "status": "not_matched",
-          "evidence": [
-            "不满足龙头连板高度"
-          ],
-          "missing_conditions": []
-        },
-        "M08": {
-          "mode": "M08",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "盈利质量、增长、估值与治理数据"
-          ]
-        },
-        "M09": {
-          "mode": "M09",
-          "status": "matched",
-          "evidence": [
-            "催化明确且承担探路/先锋角色",
-            "中期趋势修复并放量"
-          ],
-          "missing_conditions": []
-        },
-        "M10": {
-          "mode": "M10",
-          "status": "not_matched",
-          "evidence": [
-            "尾盘数据已核验"
-          ],
-          "missing_conditions": []
-        }
-      },
-      "mode_source_audit": [
-        {
-          "mode": "M01",
-          "trader": "A短线女王",
-          "technique": "弱转强/分歧转一致",
-          "status": "not_matched",
-          "evidence": [
-            "未形成完整分歧转强"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M02",
-          "trader": "令狐冲",
-          "technique": "打板/回封接力",
-          "status": "not_matched",
-          "evidence": [
-            "未形成打板/回封结构"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M03",
-          "trader": "丫丫复盘",
-          "technique": "趋势回踩低吸",
-          "status": "not_matched",
-          "evidence": [
-            "回踩目标：无；收盘相对MA60乖离6.6%",
-            "量能比（当日量/前5日均量）4.29；缩量阈值≤0.85，修复阈值≥1.30",
-            "MA20方向：向上/走平；确认：缩量承接=False、放量修复=False、止跌K=False"
-          ],
-          "missing_conditions": [
-            "价格未真实触及丫丫5/10日线或中期55/60/65日线组",
-            "缺少缩量承接、放量修复或止跌K确认"
-          ]
-        },
-        {
-          "mode": "M04",
-          "trader": "融合模式库",
-          "technique": "平台放量突破",
-          "status": "not_matched",
-          "evidence": [
-            "未形成放量突破近20日高点"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M05",
-          "trader": "本系统环境闸门",
-          "technique": "市场情绪周期/环境许可",
-          "status": "matched",
-          "evidence": [
-            "市场阶段：退潮"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M06",
-          "trader": "融合模式库",
-          "technique": "极端乖离恐慌修复",
-          "status": "not_matched",
-          "evidence": [
-            "60日线乖离6.6%，未达到老樊个股乖离买点-30%起步标准"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M07",
-          "trader": "令狐冲",
-          "technique": "龙头连板/首次分歧",
-          "status": "not_matched",
-          "evidence": [
-            "不满足龙头连板高度"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M08",
-          "trader": "融合模式库",
-          "technique": "长线价值",
-          "status": "data_missing",
-          "evidence": [],
-          "missing_conditions": [
-            "盈利质量、增长、估值与治理数据"
-          ]
-        },
-        {
-          "mode": "M09",
-          "trader": "老樊",
-          "technique": "移动平均带、探路尖兵与上影反攻；N字倍量双涨停另属用户PPT补充",
-          "status": "matched",
-          "evidence": [
-            "催化明确且承担探路/先锋角色",
-            "中期趋势修复并放量"
-          ],
-          "missing_conditions": []
-        },
-        {
-          "mode": "M10",
-          "trader": "本系统修订规则",
-          "technique": "保守型尾盘确认",
-          "status": "not_matched",
-          "evidence": [
-            "尾盘数据已核验"
-          ],
-          "missing_conditions": []
-        }
-      ],
-      "expectation": {
-        "identity": "普通股票",
-        "rating": "略低于预期",
-        "expected": "需在9:35/9:40前修复",
-        "reason": "预期评级：略低于预期；弱于竞争组"
-      },
-      "pk_decision": {
-        "applicable": false,
-        "status": "not_grouped",
-        "rank": null,
-        "reason": null
-      },
-      "regulatory_risk": {
-        "status": "normal",
-        "stock_three_day_sum_pct": -7.49,
-        "exchange_threshold_pct": 20.0,
-        "benchmark_deviation_verified": false,
-        "blocks_execution": false,
-        "reason": "未进入异动预警区"
-      },
-      "evidence": "催化明确且承担探路/先锋角色；中期趋势修复并放量",
-      "trigger": "N字二次倍量当日确认；其后1—3日须守住第二次涨停日最低价及收盘回撤5%线，并同时满足当日涨幅≥3%、量能比≥1.30、收盘突破昨日最高；超过3日旧结构只召回不计买点；同时满足无硬排除、收益风险比≥2:1",
-      "invalidation": "跌破关键位或前收；板块联动消失；同高度PK落后；出现跌停/准跌停负反馈",
-      "risk_reward": 0,
-      "position_limit": "触发前0%；触发后单票≤10%，次日总仓位≤30%",
-      "risk": "退潮环境禁止开仓；人物子模式尚未按原文逐条完成程序化；当前仅为粗粒度召回观察",
-      "next_day_plan": {
-        "sector": {
-          "name": "网络安全",
-          "role": "探路先锋",
-          "anchors": [
-            {
-              "code": "300454",
-              "name": "深信服",
-              "role": "中军",
-              "change_pct": -3.3210332103321027,
-              "price": 131.0,
-              "previous_close": 135.5,
-              "amount": 1733936054.37
-            },
-            {
-              "code": "603232",
-              "name": "格尔软件",
-              "role": "弹性前排",
-              "change_pct": -3.1986531986532007,
-              "price": 17.25,
-              "previous_close": 17.82,
-              "amount": 336209885.0
-            },
-            {
-              "code": "300369",
-              "name": "绿盟科技",
-              "role": "前排",
-              "change_pct": -3.800904977375563,
-              "price": 10.63,
-              "previous_close": 11.05,
-              "amount": 1284032817.97
-            }
-          ],
-          "anchor_rule": "锚定：深信服(300454,中军)、格尔软件(603232,弹性前排)、绿盟科技(300369,前排)；至少2只实时涨幅>0且没有锚点低于-3%才算联动；任意2只低于-3%，或板块核心低于-5%，判定联动失效。",
-          "strong": "网络安全锚点满足联动标准，当前个股地位不被同题材替代。锚定：深信服(300454,中军)、格尔软件(603232,弹性前排)、绿盟科技(300369,前排)；至少2只实时涨幅>0且没有锚点低于-3%才算联动；任意2只低于-3%，或板块核心低于-5%，判定联动失效。",
-          "base": "网络安全允许正常分歧，但锚点不得触发联动失效标准。锚定：深信服(300454,中军)、格尔软件(603232,弹性前排)、绿盟科技(300369,前排)；至少2只实时涨幅>0且没有锚点低于-3%才算联动；任意2只低于-3%，或板块核心低于-5%，判定联动失效。",
-          "weak": "网络安全触发联动失效标准，立即关闭该板块交易计划。锚定：深信服(300454,中军)、格尔软件(603232,弹性前排)、绿盟科技(300369,前排)；至少2只实时涨幅>0且没有锚点低于-3%才算联动；任意2只低于-3%，或板块核心低于-5%，判定联动失效。"
-        },
-        "stock_scenarios": {
-          "strong": {
-            "condition": "价格站上7.42元；进一步放量突破7.61元；锚定：深信服(300454,中军)、格尔软件(603232,弹性前排)、绿盟科技(300369,前排)；至少2只实时涨幅>0且没有锚点低于-3%才算联动；任意2只低于-3%，或板块核心低于-5%，判定联动失效。",
-            "action": "首次触及不追；连续两轮采样站稳7.42元且成交放大，突破7.61元后才进入可执行。"
-          },
-          "base": {
-            "condition": "价格在7.37—7.42元区间承接，回踩7.37元不破并重新站回7.42元",
-            "action": "7.37元上方观察承接；重新站回7.42元且锚点满足联动标准后再执行。"
-          },
-          "weak": {
-            "condition": "连续两轮采样低于7.37元且不能收回，或任一轮跌破7.05元；同时适用：锚定：深信服(300454,中军)、格尔软件(603232,弹性前排)、绿盟科技(300369,前排)；至少2只实时涨幅>0且没有锚点低于-3%才算联动；任意2只低于-3%，或板块核心低于-5%，判定联动失效。",
-            "action": "跌破7.05元立即取消；连续两轮低于7.37元同样取消，不再使用其他模式加分挽救。"
-          }
-        },
-        "key_levels": {
-          "defense": 7.37,
-          "hard_stop": 7.05,
-          "strength_confirmation": 7.42,
-          "breakout_confirmation": 7.61,
-          "previous_close": 7.38,
-          "ma5": 7.44
-        },
-        "pre_open_checks": [
-          "指数与情绪环境",
-          "板块竞价联动",
-          "同题材/同高度PK",
-          "异动监管距离",
-          "预估收益风险比不低于2:1"
-        ]
-      }
-    },
-    {
       "code": "603232",
       "name": "格尔软件",
       "score": 50,
       "grade": "B",
       "opportunity_id": "20261015-603232-M03",
       "opportunity_status": "conditional",
-      "signal_rank": 3,
-      "execution_rank": 2,
-      "risk_reward_rank": 2,
+      "signal_rank": 2,
+      "execution_rank": 1,
+      "risk_reward_rank": 1,
       "price": 17.25,
       "change_pct": -3.1986531986532007,
       "amount": 336209885.0,
@@ -21640,8 +21288,8 @@
       "mode": "M09",
       "trader": "老樊",
       "technique": "移动平均带、探路尖兵与上影反攻；N字倍量双涨停另属用户PPT补充",
-      "matched_count": 14,
-      "partial_count": 407,
+      "matched_count": 13,
+      "partial_count": 408,
       "data_missing_count": 0
     },
     {
@@ -21831,16 +21479,6 @@
         "missing_conditions": []
       },
       {
-        "code": "002212",
-        "name": "天融信",
-        "status": "matched",
-        "score": 50,
-        "evidence": [
-          "市场阶段：退潮"
-        ],
-        "missing_conditions": []
-      },
-      {
         "code": "603232",
         "name": "格尔软件",
         "status": "matched",
@@ -21853,6 +21491,16 @@
       {
         "code": "603533",
         "name": "掌阅科技",
+        "status": "matched",
+        "score": 40,
+        "evidence": [
+          "市场阶段：退潮"
+        ],
+        "missing_conditions": []
+      },
+      {
+        "code": "601811",
+        "name": "新华文轩",
         "status": "matched",
         "score": 40,
         "evidence": [
@@ -22010,17 +21658,6 @@
         "missing_conditions": []
       },
       {
-        "code": "002212",
-        "name": "天融信",
-        "status": "matched",
-        "score": 50,
-        "evidence": [
-          "催化明确且承担探路/先锋角色",
-          "中期趋势修复并放量"
-        ],
-        "missing_conditions": []
-      },
-      {
         "code": "000823",
         "name": "超声电子",
         "status": "matched",
@@ -22043,6 +21680,17 @@
           "今天正是第二次倍量涨停确认日"
         ],
         "missing_conditions": []
+      },
+      {
+        "code": "002696",
+        "name": "百洋股份",
+        "status": "matched",
+        "score": 30,
+        "evidence": [
+          "N字历史结构：2026-10-13、2026-10-15两次涨停，第二次倍量；距今0个交易日",
+          "今天正是第二次倍量涨停确认日"
+        ],
+        "missing_conditions": []
       }
     ],
     "M10": []
@@ -22058,9 +21706,16 @@
   "changes": {
     "added": [],
     "removed": [
-      "600831"
+      "002212"
     ],
-    "rank_changes": []
+    "rank_changes": [
+      {
+        "code": "603232",
+        "from": 2,
+        "to": 1,
+        "delta": 1
+      }
+    ]
   },
   "risk_changes": [
     {
